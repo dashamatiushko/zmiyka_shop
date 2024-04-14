@@ -1,0 +1,16 @@
+
+@media (min-width:992px) {
+    .head {
+        width: 900px;
+        height: 1;
+       }
+}
+
+
+@media (min-width:1200px) {
+    .head {
+        width:1000px;
+        height: 300;
+       }
+}
+
